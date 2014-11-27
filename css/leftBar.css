@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#headerBar{
+	background-color:#75BDEB;
+	padding:10px 0;
+	text-align:center;
+	font-size:24px;
+        cursor: pointer;
+}
+
+
+.mainBar{
+	background-color:#75BDEB;
+}
+
+.catagoryList {
+        width: 100%;
+        margin: 0px;
+}
+
+.catagoryList  ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        }
+
+
+.catagoryList li a {
+	height: 24px;
+        text-decoration: none;
+}
+
+.catagoryList li a{
+        color: black;
+        display: block;
+        background:  url(../images/menu.gif);
+        padding: 8px 0 0 10px;
+        opacity: .9;
+        }
+
+.catagoryList li a:hover{
+        color: black;
+        background:  url(../images/menu.gif) ; 
+        opacity: 1;
+}
