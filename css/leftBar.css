@@ -41,7 +41,6 @@
         }
 
 .catagoryList li a:hover{
-        color: black;
+        color: white;
         background:  url(../images/menu.gif) ; 
-        opacity: 1;
 }

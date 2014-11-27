@@ -11,6 +11,6 @@
 				$(".catagoryList").toggle();
 			});
 		});
-		</script>
+	</script>
 </body>
 </html>

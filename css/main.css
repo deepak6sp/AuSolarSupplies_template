@@ -72,19 +72,21 @@ h4{
 .bottomHeader nav ul li{
 	display:inline-block;
 	border-radius:5px;
-	padding:16px 15px;
 }
 
 .bottomHeader nav ul li a {
 	color:black;
 	text-decoration:none;
 	text-align:center;
+	padding:15px 30px;
+	line-height: 3.1;
 	
 }
 
 .bottomHeader nav ul li:hover,.bottomHeader nav ul li a:hover{
 	background-color:#BDDFF5;
 }
+
 
 .leftBar{
 	border:1px solid gray;
@@ -231,7 +233,7 @@ footer{
 }
 
 @media(min-width: 320px) and (max-width: 480px){
-	.bottomHeader nav ul li{padding:13px 13px;}
+	.bottomHeader nav ul li a{padding:10px 10px;}
 	.mainHeader{height: 100px;}
 	.mainHeader img{width:100px;margin-top: 2%;}
 	.mainHeader select{margin-top: 2%}
@@ -251,11 +253,10 @@ footer{
 
 }
 
-@media(max-width: 320px){
-	.name{color:blue;}
+@media(max-width: 320px){	
 	.mainHeader{height:100px;}
 	.mainHeader img{width:75px;margin-top: 2%;}
-	.bottomHeader nav ul li{padding:15px 14px;}
+	.bottomHeader nav ul li a {padding:10px 10px;}
 	.leftBar{ width:100%;height:auto;}
 	#mainContent{float: left;width:90%;}
 	.imageWrapper{width:90%;}
