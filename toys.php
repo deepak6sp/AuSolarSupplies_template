@@ -9,6 +9,7 @@
     </aside>
 <!---main content-->
 	<main id="mainContent">
+		<h1>Toys</h1>
 		<div class="imageWrapper"><img src="images/toy1.jpg"><h6>Price $15<br>Stock Available - <input placeholder="5"></h6></img></div>
 		<div class="imageWrapper"><img src="images/toy2.jpg"><h6>Price $10<br>Stock Available - <input placeholder="15"></h6></img></div>
 		<div class="imageWrapper"><img src="images/toy3.jpg"><h6>Price $12<br>Stock Available - <input placeholder="3"></h6></img></div>

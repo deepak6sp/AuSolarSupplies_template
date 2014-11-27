@@ -9,6 +9,7 @@
     </aside>
 <!---main content-->
 	  <main id="mainContent">
+      <h1>Home</h1>
       <ul>
         <li><h4>Australian Solar Supplies Pty Ltd is a specialised sourcing and distributing company for energy saving products. We have been working for the renewable energy industry in Australia since 2009.</h4></li>
         <li><h4>We ensure that all of our products are Australian standard compliant and accredited by internationally recognized institutions. All product are fully backed by industry standard warranties.</h4></li>  
